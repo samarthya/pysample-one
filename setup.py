@@ -4,8 +4,8 @@ setup(
     name='square',
     version='1.0',
     description='A simple module to square a number',
-    author='Your Name',
-    author_email='your.email@example.com',
+    author='Saurabh Sharma',
+    author_email='saurabh777@gmail.com',
     py_modules=['square'],
     classifiers=[
         'Development Status :: 5 - Production/Stable',
